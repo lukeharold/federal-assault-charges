@@ -1,0 +1,28 @@
+name: Sync latest filings
+
+on:
+  schedule:
+    - cron: '0 14,19,23 * * *' # three runs a day (7 a.m., noon, 4 p.m. Pacific); stays under 125 requests/day
+  workflow_dispatch: # adds a "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/sync-latest-filings.mjs
+        env:
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/data/cases.json scripts/sync-state.json
+          git diff --cached --quiet || git commit -m "Sync latest filings from CourtListener"
+          git push
