@@ -416,7 +416,13 @@
     "caseNumber": "2:25-cr-00500-PA-1",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00500",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-10-02",
+      "entryNumber": 130,
+      "text": "VERIFICATION OF SURRENDER as to Jacob Daniel Terrazas. The defendant was ordered to self-surrender to begin serving their sentence of imprisonment on September 29, 2026. The bond may be exonerated pending the verification as to whether the defendant is being electronically…",
+      "docketUrl": "https://www.courtlistener.com/docket/70673384/united-states-v-terrazas/",
+      "checked": "2026-10-06"
+    }
   },
   {
     "id": 18,
@@ -435,7 +441,13 @@
     "caseNumber": "2:25-cr-00669-AH",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00669",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-08-24",
+      "entryNumber": 58,
+      "text": "STATUS REPORT filed by Plaintiff USA as to Defendant Maria De Jesus Garcia GOVERNMENT'S POSITION REGARDING RESTITUTION (Hara, Monika)",
+      "docketUrl": "https://www.courtlistener.com/docket/71120338/united-states-v-de-jesus-garcia/",
+      "checked": "2026-10-06"
+    }
   },
   {
     "id": 19,
@@ -454,7 +466,13 @@
     "caseNumber": "2:25-cr-00646-MEMF-1",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00646",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-09-23",
+      "entryNumber": 58,
+      "text": "JUDGMENT AND COMMITMENT by Judge Andre Birotte Jr. as to Defendant Fernando Flores (1), Count(s) 1, Defendant is committed on Count 1 of the Indictment to the Bureau of Prisons for a term of TIME SERVED. Supervised release for one year. Special assessment of $25. All fines are…",
+      "docketUrl": "https://www.courtlistener.com/docket/71085443/united-states-v-flores/",
+      "checked": "2026-10-06"
+    }
   },
   {
     "id": 20,
@@ -473,7 +491,13 @@
     "caseNumber": "2:25-cr-00681-CV-1",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00681",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-08-21",
+      "entryNumber": 37,
+      "text": "JUDGMENT AND COMMITMENT by Judge Cynthia Valenzuela as to Defendant Alfonso Saldana-Solorio (1), Count(s) 1, Defendant is committed on Count 1 of the Indictment to the Bureau of Prisons for a term of TIME SERVED. Supervised release for one year. Special assessment of $25. All…",
+      "docketUrl": "https://www.courtlistener.com/docket/71140797/united-states-v-saldana-solorio/",
+      "checked": "2026-10-06"
+    }
   },
   {
     "id": 21,
@@ -492,7 +516,13 @@
     "caseNumber": "5:25-cr-00261-JGB",
     "courtId": "cacd",
     "docketNumber": "5:25-cr-00261",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-11-03",
+      "entryNumber": 25,
+      "text": "ORDER TO DISMISS INDICTMENT WITHOUT PREJUDICE PURSUANT TO RULE 48(a) by Judge Jesus G. Bernal: granting 23 MOTION to Dismiss, as to Mario Albert Castillo-Ortega (1). IT IS HEREBY ORDERED that the indictment is dismissed without prejudice against defendant in the interest of…",
+      "docketUrl": "https://www.courtlistener.com/docket/71235551/united-states-v-castillo-ortega/",
+      "checked": "2026-10-06"
+    }
   },
   {
     "id": 22,
@@ -511,7 +541,13 @@
     "caseNumber": "2:25-CR-00491-AH",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00491",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-05-14",
+      "entryNumber": 40,
+      "text": "JUDGMENT AND COMMITMENT by Judge Anne Hwang as to Defendant Wrackkie Quiogue (1). Defendant, WRACKKIE QUIOGUE, is, hereby, committed on Count 1 of the Indictment to the custody of the Bureau of Prisons to be imprisoned for a term of Thirty (30) months. Supervised release for Two…",
+      "docketUrl": "https://www.courtlistener.com/docket/70707456/united-states-v-quiogue/",
+      "checked": "2026-10-06"
+    }
   },
   {
     "id": 23,
@@ -530,7 +566,13 @@
     "caseNumber": "3:25-mj-03710-AHG",
     "courtId": "casd",
     "docketNumber": "3:25-mj-03710",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-07-30",
+      "entryNumber": 13,
+      "text": "NOTICE OF MERGED MAGISTRATE CASE as to Jeane Wong; All future filings related to Jeane Wong must be e-filed in criminal case 25cr3020-JAH. (no document attached)",
+      "docketUrl": "https://www.courtlistener.com/docket/70708912/united-states-v-wong/",
+      "checked": "2026-10-06"
+    }
   },
   {
     "id": 24,
@@ -568,7 +610,13 @@
     "caseNumber": "3:25-mj-03704-AHG",
     "courtId": "casd",
     "docketNumber": "3:25-mj-03704",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-07-16",
+      "entryNumber": 11,
+      "text": "NOTICE OF MERGED MAGISTRATE CASE as to Denis Anderson Chicoj-Yacon; All future filings related to Denis Anderson Chicoj-Yacon must be e-filed in criminal case 25-cr-2821-AJB-1. (no document attached)",
+      "docketUrl": "https://www.courtlistener.com/docket/70703641/united-states-v-chicoj-yacon/",
+      "checked": "2026-10-06"
+    }
   },
   {
     "id": 26,
@@ -587,7 +635,13 @@
     "caseNumber": "5:25-cr-00366-KK-1",
     "courtId": "cacd",
     "docketNumber": "5:25-cr-00366",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-08-25",
+      "entryNumber": 71,
+      "text": "Notice of Appearance or Withdrawal of Counsel: for attorney Chad J. Pennington. Chad J. Pennington is no longer counsel of record for the aforementioned party in this case for the reason indicated in the G-123 Notice. Filed by defendant Carlos Jimenez. (Pennington, Chad)",
+      "docketUrl": "https://www.courtlistener.com/docket/71933330/united-states-v-jimenez/",
+      "checked": "2026-10-06"
+    }
   },
   {
     "id": 27,
@@ -606,7 +660,13 @@
     "caseNumber": "8:25-mj-00898-DUTY",
     "courtId": "cacd",
     "docketNumber": "8:25-mj-00898",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-11-24",
+      "entryNumber": 13,
+      "text": "TERMINATED merged defendant case for Defendant Robert Chavez Cortez. Merged into CR case number: 8:25-cr-00235. All future filings should be made in case 8:25-cr-00235. Please be advised that no further filings may be made under case number 8:25-mj-898. Any such filings made…",
+      "docketUrl": "https://www.courtlistener.com/docket/71891875/united-states-v-cortez/",
+      "checked": "2026-10-06"
+    }
   },
   {
     "id": 28,
@@ -625,7 +685,13 @@
     "caseNumber": "2:25-mj-00170-AC-1",
     "courtId": "caed",
     "docketNumber": "2:25-mj-00170",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-08-21",
+      "entryNumber": 24,
+      "text": "STIPULATION and ORDER as to Christopher Chitwood signed by Magistrate Judge Allison Claire on 8/21/2026 CONTINUING Status Conference to 11/9/2026 at 09:00 AM in Courtroom 26 (AC) before Magistrate Judge Allison Claire. Excludable started as to Christopher Chitwood: T4 Start:…",
+      "docketUrl": "https://www.courtlistener.com/docket/71882154/united-states-v-chitwood/",
+      "checked": "2026-10-06"
+    }
   },
   {
     "id": 29,
@@ -644,7 +710,13 @@
     "caseNumber": "2:25-cr-00502-JAK-1",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00502",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-07-31",
+      "entryNumber": 23,
+      "text": "ORDER GRANTING MOTION TO DISMISS INDICTMENT WITH PREJUDICE PURSUANT TO FEDERAL RULE OF CRIMINAL PROCEDURE 48(a) (DKT. 22) by Judge John A. Kronstadt Granting 22 MOTION to Dismiss Case as to Esteban Armenta Arias (1): Based on a review of the Government's Motion to Dismiss the…",
+      "docketUrl": "https://www.courtlistener.com/docket/70655403/united-states-v-armenta-arias/",
+      "checked": "2026-10-06"
+    }
   },
   {
     "id": 30,
