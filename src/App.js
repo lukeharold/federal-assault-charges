@@ -70,7 +70,7 @@ const CourtCaseTimeline = () => {
             A timeline of alleged assaults committed against federal agents in California since the immigration raids started
           </h1>
           <p className="text-slate-600 mb-1">Data compiled by Luke Harold. Coding by Claude.ai.</p>
-          <p className="text-slate-500 text-sm mb-4">Last updated: May 13, 2026</p>
+          <p className="text-slate-500 text-sm mb-4">Last manual update: Oct. 6, 2026</p>
 
           {/* About */}
           <div className="p-5 bg-white rounded-lg shadow-md border border-slate-200 mb-4">
