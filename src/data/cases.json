@@ -1060,7 +1060,13 @@
     "caseNumber": "5:25-cr-00266-SSS",
     "courtId": "cacd",
     "docketNumber": "5:25-cr-00266",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-04-22",
+      "entryNumber": 62,
+      "text": "ORDER Continuing Trial Date and Findings Regarding Excludable Time Periods Pursuant to Speedy Trial Act by Judge Sunshine Suzanne Sykes, as to Defendant Jose De Jesus Ortega, Danielle Nadine Davila 61 . NOTE CHANGES MADE BY COURT. Trial continued to 11/16/2026 at 09:00 AM before…",
+      "docketUrl": "https://www.courtlistener.com/docket/71290418/united-states-v-ortega/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 44,
@@ -1079,7 +1085,13 @@
     "caseNumber": "5:25-cr-00266-SSS",
     "courtId": "cacd",
     "docketNumber": "5:25-cr-00266",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-04-22",
+      "entryNumber": 62,
+      "text": "ORDER Continuing Trial Date and Findings Regarding Excludable Time Periods Pursuant to Speedy Trial Act by Judge Sunshine Suzanne Sykes, as to Defendant Jose De Jesus Ortega, Danielle Nadine Davila 61 . NOTE CHANGES MADE BY COURT. Trial continued to 11/16/2026 at 09:00 AM before…",
+      "docketUrl": "https://www.courtlistener.com/docket/71290418/united-states-v-ortega/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 45,
@@ -1098,7 +1110,13 @@
     "caseNumber": "2:25-cr-00582-AH",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00582",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-10-05",
+      "entryNumber": 90,
+      "text": "JUDGMENT AND COMMITMENT by Judge Anne Hwang as to Defendant Danny Duran (2). Defendant, DANNY DURAN, is hereby placed on Probation on Count 3 of the Indictment for a term of: TWO (2) years, pay a special assessment of $25,00, a Fine in the amount of $500.00. Government's motion,…",
+      "docketUrl": "https://www.courtlistener.com/docket/70833421/united-states-v-manriquez/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 46,
@@ -1117,7 +1135,13 @@
     "caseNumber": "2:25-cr-00582-AH",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00582",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-08-25",
+      "entryNumber": 83,
+      "text": "NOTICE OF APPEARANCE OR REASSIGNMENT of AUSA Lloyd Masson on behalf of Plaintiff USA. Filed by Plaintiff USA. (Attorney Lloyd Masson added to party USA(pty:pla))(Masson, Lloyd)",
+      "docketUrl": "https://www.courtlistener.com/docket/70881589/united-states-v-manriquez/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 47,
@@ -1136,7 +1160,13 @@
     "caseNumber": "2:25-cr-00656-AB",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00656",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-06-03",
+      "entryNumber": 110,
+      "text": "ORDER of USCA filed as to Defendant Erin Escobar re 9th CCA Assigned Case Number Notice 106, CCA #26-2776. The motion (Docket Entry No. 7) for voluntary dismissal is granted. This appeal is dismissed. See Fed. R. App. P. 42(b). This order serves as the mandate of the court.",
+      "docketUrl": "https://www.courtlistener.com/docket/71235531/united-states-v-escobar/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 48,
@@ -1155,7 +1185,13 @@
     "caseNumber": "2:25-cr-00656-AB",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00656",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-05-05",
+      "entryNumber": 109,
+      "text": "NOTICE OF FILING TRANSCRIPT filed as to Defendant Erin Escobar, Nick Gutierrez for proceedings March 26, 2026 re Transcript 108 (Elias, Laura)",
+      "docketUrl": "https://www.courtlistener.com/docket/71235531/united-states-v-escobar/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 49,
@@ -1174,7 +1210,13 @@
     "caseNumber": "2:25-cr-00660-AH",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00660",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-12-31",
+      "entryNumber": 50,
+      "text": "ORDER 49 by Judge Anne Hwang that the United States Pretrial Services Office shall return Hector Galeano-Galindo's United States passport to Mr. Galeano-Galindo forthwith.",
+      "docketUrl": "https://www.courtlistener.com/docket/71284613/united-states-v-galeano-galindo/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 50,
@@ -1193,7 +1235,13 @@
     "caseNumber": "8:25-cr-00120-SVW",
     "courtId": "cacd",
     "docketNumber": "8:25-cr-00120",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-01-09",
+      "entryNumber": 46,
+      "text": "ORDER TO RETURN US PASSPORT by Judge Stephen V. Wilson granting 45 EX PARTE APPLICATION for Return of Property (PostTrial) as to Christian Andres Garcia (1). IT IS HEREBY ORDERED: Defendant Christian Andres Garcia's US Passport to be returned to him by US Pre-trial services.",
+      "docketUrl": "https://www.courtlistener.com/docket/70707457/united-states-v-garcia/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 51,
@@ -1212,7 +1260,13 @@
     "caseNumber": "2:25-mj-05268-DUTY",
     "courtId": "cacd",
     "docketNumber": "2:25-mj-05268",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-09-15",
+      "entryNumber": 19,
+      "text": "(IN CHAMBERS) TEXT-ONLY ENTRY by Magistrate Patricia Donahue: as to Defendant Hector Leiva Garcia. Any opposition to this motion is due by September 18, 2025. After that date, the motion will be under submission.",
+      "docketUrl": "https://www.courtlistener.com/docket/71290489/united-states-v-garcia/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 52,
@@ -1231,7 +1285,13 @@
     "caseNumber": "5:25-mj-00496-DUTY",
     "courtId": "cacd",
     "docketNumber": "5:25-mj-00496",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-08-22",
+      "entryNumber": 22,
+      "text": "ORDER FOR DISMISSAL OF MAGISTRATE'S COMPLAINT by Magistrate Judge David T. Bristow: granting 21 MOTION to Dismiss Magistrate Complaint as to Carlos Gutierrez-Cardenas (1)",
+      "docketUrl": "https://www.courtlistener.com/docket/71279147/united-states-v-gutierrez-cardenas/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 53,
@@ -1250,7 +1310,13 @@
     "caseNumber": "2:25-cr-00543-FMO",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00543",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-12-15",
+      "entryNumber": 38,
+      "text": "JUDGMENT AND COMMITMENT by Judge Fernando M. Olguin as to Defendant Thomas Guzman (1), Count(s) 1, Defendant Thomas Guzman (1), Count(s) 1, Defendant is sentenced to 12 months of Probation, $25 Special Assessment, Fines are waived. Bond Exonerated. Defendant advised of right of…",
+      "docketUrl": "https://www.courtlistener.com/docket/70815964/united-states-v-guzman/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 54,
@@ -1269,7 +1335,13 @@
     "caseNumber": "8:25-mj-00614-DUTY",
     "courtId": "cacd",
     "docketNumber": "8:25-mj-00614",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-09-23",
+      "entryNumber": 20,
+      "text": "ORDER by Magistrate Judge Douglas F. McCormick: granting 18 MOTION FOR DISMISSALOF MAGISTRATES COMPLAINT as to Alireza Hamedani (1) A Magistrate's Complaint having been filed before United States Magistrate Judge Karen E. Scott in Santa Ana, California, against the above-named…",
+      "docketUrl": "https://www.courtlistener.com/docket/71281778/united-states-v-hamedani/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 55,
@@ -1288,7 +1360,13 @@
     "caseNumber": "8:25-mj-00549-DUTY",
     "courtId": "cacd",
     "docketNumber": "8:25-mj-00549",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-07-29",
+      "entryNumber": 28,
+      "text": "ORDER by Magistrate Judge Karen E. Scott granting 27 MOTION to Dismiss Complaint as to Arturo Hermosillo (1), Julian Pecora Cardenas (2)",
+      "docketUrl": "https://www.courtlistener.com/docket/70873576/united-states-v-hermosillo/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 56,
@@ -1307,7 +1385,13 @@
     "caseNumber": "8:25-mj-00549-DUTY",
     "courtId": "cacd",
     "docketNumber": "8:25-mj-00549",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-07-29",
+      "entryNumber": 28,
+      "text": "ORDER by Magistrate Judge Karen E. Scott granting 27 MOTION to Dismiss Complaint as to Arturo Hermosillo (1), Julian Pecora Cardenas (2)",
+      "docketUrl": "https://www.courtlistener.com/docket/70873576/united-states-v-hermosillo/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 57,
@@ -1326,7 +1410,13 @@
     "caseNumber": "2:25-mj-03896-DUTY",
     "courtId": "cacd",
     "docketNumber": "2:25-mj-03896",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-07-15",
+      "entryNumber": 33,
+      "text": "TERMINATED merged defendant case for Defendant Luis Dalhet Hipolito. Merged into CR case number: 2:25-cr-00596-SVW. All future filings should be made in case 2:25-cr-00596-SVW. Please be advised that no further filings may be made under case number 2:25-mj-3896-2. Any such…",
+      "docketUrl": "https://www.courtlistener.com/docket/70755309/united-states-v-velez/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 58,
@@ -1345,7 +1435,13 @@
     "caseNumber": "2:25-mj-03896-DUTY",
     "courtId": "cacd",
     "docketNumber": "2:25-mj-03896",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-07-10",
+      "entryNumber": 32,
+      "text": "ORDER TO DISMISS COMPLAINT WITHOUT PREJUDICE PURSUANT TO RULE 48 (a) by Magistrate Judge Karen L. Stevenson, IT IS HEREBY ORDERED that the complaint against defendant is dismissed without prejudice under Federal Rule of Criminal Procedure 48(a). Defendant's bond shall be…",
+      "docketUrl": "https://www.courtlistener.com/docket/70755309/united-states-v-velez/",
+      "checked": "2026-10-07"
+    }
   },
   {
     "id": 59,
