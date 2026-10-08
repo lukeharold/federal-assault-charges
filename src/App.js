@@ -1,8 +1,55 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import cases from "./data/cases.json";
 import { Calendar, MapPin, FileText, Scale, ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
 
+// Groups one date's header and cards.
+const Reveal = ({ children }) => <div className="reveal-group">{children}</div>;
+
+// Fades case cards in and out as they move through the screen, and fades each date
+// in as it arrives. Dates then stay pinned at the top (see index.css) until the next
+// date pushes them away. Scrolling up reverses everything.
+const FADE_ZONE = 0.22; // share of the screen height where fading happens
+const DRIFT_PX = 40; // how far items move while fading
+const useScrollFade = () => {
+  useEffect(() => {
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    let frame = null;
+    const setFade = (el, v, direction) => {
+      el.style.opacity = v.toFixed(3);
+      el.style.transform = v >= 1 ? '' : `translateY(${((1 - v) * DRIFT_PX * direction).toFixed(1)}px)`;
+    };
+    const update = () => {
+      frame = null;
+      const h = window.innerHeight;
+      const zone = h * FADE_ZONE;
+      // Cards fade out as they slide under the pinned date, not at the very top.
+      const pinned = document.querySelector('.reveal-group > :first-child');
+      const top = pinned ? pinned.offsetHeight : 0;
+      document.querySelectorAll('.reveal-group > :first-child').forEach((el) => {
+        const r = el.getBoundingClientRect();
+        setFade(el, Math.min(1, Math.max(0, (h - r.top) / zone)), 1);
+      });
+      document.querySelectorAll('.reveal-group .grid > *').forEach((el) => {
+        const r = el.getBoundingClientRect();
+        const enter = Math.min(1, Math.max(0, (h - r.top) / zone));
+        const exit = Math.min(1, Math.max(0, (r.bottom - top) / zone));
+        setFade(el, Math.min(enter, exit), enter < exit ? 1 : -1);
+      });
+    };
+    const onScroll = () => { if (!frame) frame = requestAnimationFrame(update); };
+    update();
+    window.addEventListener('scroll', onScroll, { passive: true });
+    window.addEventListener('resize', onScroll);
+    return () => {
+      window.removeEventListener('scroll', onScroll);
+      window.removeEventListener('resize', onScroll);
+      if (frame) cancelAnimationFrame(frame);
+    };
+  }); // runs after every render, so filtered and expanded cards stay in sync
+};
+
 const CourtCaseTimeline = () => {
+  useScrollFade();
   const [expandedCases, setExpandedCases] = useState(new Set());
   const [selectedStatus, setSelectedStatus] = useState('all');
 
@@ -140,7 +187,7 @@ const CourtCaseTimeline = () => {
         ) : (
           <div className="space-y-12">
             {sortedDates.map((date) => (
-              <div key={date}>
+              <Reveal key={date}>
                 <div className="flex items-center gap-3 mb-6">
                   <div className="bg-blue-600 text-white px-4 py-2 rounded-lg shadow-md flex items-center gap-2">
                     <Calendar className="w-5 h-5" />
@@ -152,7 +199,7 @@ const CourtCaseTimeline = () => {
                   <div className="h-0.5 flex-grow bg-slate-300"></div>
                 </div>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 items-start">
                   {casesByDate[date].map((caseItem) => (
                     <div
                       key={caseItem.id}
@@ -195,12 +242,6 @@ const CourtCaseTimeline = () => {
 
                         {expandedCases.has(caseItem.id) && (
                           <div className="mt-4 pt-4 border-t border-slate-200 space-y-3">
-                            {caseItem.plea && caseItem.plea !== 'n/a' && (
-                              <div>
-                                <h4 className="font-semibold text-slate-700 mb-1 text-sm">Plea</h4>
-                                <p className="text-slate-600 text-sm capitalize">{caseItem.plea}</p>
-                              </div>
-                            )}
                             {caseItem.court && caseItem.court !== 'n/a' && (
                               <div>
                                 <h4 className="font-semibold text-slate-700 mb-1 text-sm flex items-center gap-1">
@@ -258,7 +299,7 @@ const CourtCaseTimeline = () => {
                     </div>
                   ))}
                 </div>
-              </div>
+              </Reveal>
             ))}
           </div>
         )}

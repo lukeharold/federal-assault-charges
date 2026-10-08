@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Scroll-linked fading for timeline date groups */
+.reveal-group > :first-child,
+.reveal-group .grid > * { will-change: opacity, transform; }
+
+/* Sticky date headers: each date stays at the top while its cases scroll past */
+.reveal-group > :first-child {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+  background: rgba(241, 245, 249, 0.92);
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
+}
