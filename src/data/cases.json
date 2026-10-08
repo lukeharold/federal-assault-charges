@@ -1460,7 +1460,13 @@
     "caseNumber": "2:25-cr-00424-PA",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00424",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-03-02",
+      "entryNumber": 60,
+      "text": "JUDGMENT AND COMMITMENT by Judge Percy Anderson as to Defendant Kiara Jaime-Flores (2), Count(s) 1s, Defendant is hereby placed on probation for a term of one (1) year under the terms and conditions of the United States Probation and Pretrial Services Office and Second Amended…",
+      "docketUrl": "https://www.courtlistener.com/docket/71242054/united-states-v-torres/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 60,
@@ -1479,7 +1485,13 @@
     "caseNumber": "2:25-cr-00424-PA",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00424",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-04-24",
+      "entryNumber": 65,
+      "text": "VERIFICATION OF SURRENDER as to Gustavo Torres. The defendant was ordered to self-surrender to begin serving their sentence of imprisonment on 04/20/2026. The bond may be exonerated pending the verification as to whether the defendant is being electronically monitored by the…",
+      "docketUrl": "https://www.courtlistener.com/docket/71242054/united-states-v-torres/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 61,
@@ -1498,7 +1510,13 @@
     "caseNumber": "2:25-cr-00588-SB",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00588",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-11-14",
+      "entryNumber": 33,
+      "text": "NOTICE OF APPEARANCE OR REASSIGNMENT of AUSA US Attorney's Office for USA on behalf of Plaintiff USA. Filed by Plaintiff USA.",
+      "docketUrl": "https://www.courtlistener.com/docket/70881567/united-states-v-johnson/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 62,
@@ -1517,7 +1535,13 @@
     "caseNumber": "2:25-cr-01008-GW",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-01008",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-10-05",
+      "entryNumber": 33,
+      "text": "WAIVER OF INDICTMENT by Defendant Jose Francisco Jovel before Judge George H Wu.",
+      "docketUrl": "https://www.courtlistener.com/docket/72083180/united-states-v-jovel/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 63,
@@ -1536,7 +1560,13 @@
     "caseNumber": "8:25-mj-00605-DUTY",
     "courtId": "cacd",
     "docketNumber": "8:25-mj-00605",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-11-18",
+      "entryNumber": 30,
+      "text": "ORDER by Magistrate Judge Karen E. Scott: granting 28 MOTION to Dismiss Magistrate Complaint as to Harold Lemus-Romero (1)",
+      "docketUrl": "https://www.courtlistener.com/docket/71281524/united-states-v-lemus-romero/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 64,
@@ -1555,7 +1585,13 @@
     "caseNumber": "5:25-mj-00533-DUTY",
     "courtId": "cacd",
     "docketNumber": "5:25-mj-00533",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-09-17",
+      "entryNumber": 21,
+      "text": "ORDER by Magistrate Judge A. Joel Richlin: granting 20 MOTION to Dismiss Magistrate Complaint as to Francisco Javier Longoria (1)",
+      "docketUrl": "https://www.courtlistener.com/docket/71293419/united-states-v-longoria/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 65,
@@ -1574,7 +1610,13 @@
     "caseNumber": "2:25-cr-00705-MEMF",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00705",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-04-06",
+      "entryNumber": 165,
+      "text": "NOTICE OF FILING TRANSCRIPT filed as to Defendant Isaias Lopez for proceedings 1/23/2026 & 1/26/2026, Testimony of Anthony Sermons re Transcript 163, 164",
+      "docketUrl": "https://www.courtlistener.com/docket/72190894/united-states-v-lopez/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 66,
@@ -1593,7 +1635,13 @@
     "caseNumber": "2:25-cr-00692-MEMF-1",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00692",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-08-25",
+      "entryNumber": 46,
+      "text": "NOTICE of New Authority filed by Plaintiff USA as to Defendant Adrian Andrew Martinez, Re: Order on Motion to Dismiss Case 45 (Robbins, Alexander)",
+      "docketUrl": "https://www.courtlistener.com/docket/71293408/united-states-v-martinez/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 67,
@@ -1612,7 +1660,13 @@
     "caseNumber": "2:25-cr-00795-WLH-1",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00795",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-10-05",
+      "entryNumber": 42,
+      "text": "VERIFICATION OF SURRENDER as to Cosmas Mitchell. The defendant was ordered to report to the Unites States Probation Office to commence his supervision. The bond may be exonerated pending the verification as to whether the defendant is being electronically monitored by the U.S.…",
+      "docketUrl": "https://www.courtlistener.com/docket/71715224/united-states-v-mitchell/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 68,
@@ -1631,7 +1685,13 @@
     "caseNumber": "2:25-mj-03506-DUTY",
     "courtId": "cacd",
     "docketNumber": "2:25-mj-03506",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-06-24",
+      "entryNumber": 63,
+      "text": "NOTICE TO FILER OF DEFICIENCIES in Filed Document RE: Stipulation to Continue 46 . The following error(s) was/were found: Incorrect document is attached to the docket entry. Other error(s) with document(s): Duplicate filing of ECF no. 45. In response to this notice, the Court…",
+      "docketUrl": "https://www.courtlistener.com/docket/70565414/united-states-v-ramos-brito/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 69,
@@ -1650,7 +1710,13 @@
     "caseNumber": "2:25-cr-00514-SRM",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00514",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-08-27",
+      "entryNumber": 97,
+      "text": "Notice of Appearance or Withdrawal of Counsel: for attorney Patrick Castaneda. Adding Patrick Castaneda as counsel of record for USA for the reason indicated in the G-123 Notice. Filed by plaintiff USA. (Castaneda, Patrick)",
+      "docketUrl": "https://www.courtlistener.com/docket/70685785/united-states-v-rodriguez/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 70,
@@ -1669,7 +1735,13 @@
     "caseNumber": "2:25-cr-00514-SRM-2",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00514",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-08-27",
+      "entryNumber": 97,
+      "text": "Notice of Appearance or Withdrawal of Counsel: for attorney Patrick Castaneda. Adding Patrick Castaneda as counsel of record for USA for the reason indicated in the G-123 Notice. Filed by plaintiff USA. (Castaneda, Patrick)",
+      "docketUrl": "https://www.courtlistener.com/docket/70685785/united-states-v-rodriguez/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 71,
@@ -1688,7 +1760,13 @@
     "caseNumber": "2:25-cr-00514-SRM-1",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00514",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-08-31",
+      "entryNumber": 99,
+      "text": "ORDER DISMISSING THE INFORMATION AS TO DEFENDANT ASHLEY RODRIGUEZ AND EXONERATING BOND 98 by Judge Serena R. Murillo:",
+      "docketUrl": "https://www.courtlistener.com/docket/70685785/united-states-v-rodriguez/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 72,
@@ -1707,7 +1785,13 @@
     "caseNumber": "2:25-cr-00708-JLS",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00708",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-01-07",
+      "entryNumber": 60,
+      "text": "ORDER TO EXTEND DEADLINE TO PAY THE FINE by Magistrate Judge Maria A. Audero: Granting 59 EX PARTE APPLICATION for Extension of Time, IT IS HEREBY ORDERED that the deadline to pay the fine is extended to Monday, February 9, 2026.",
+      "docketUrl": "https://www.courtlistener.com/docket/71294518/united-states-v-munoz/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 73,
