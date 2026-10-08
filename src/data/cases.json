@@ -1810,7 +1810,13 @@
     "caseNumber": "5:25-cr-00232-SSS",
     "courtId": "cacd",
     "docketNumber": "5:25-cr-00232",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-12-19",
+      "entryNumber": 34,
+      "text": "JUDGMENT AND COMMITMENT by Judge Sunshine Suzanne Sykes as to Defendant Juan Pablo Munoz-Hernandez (1). Defendant, Juan Pablo Munoz-Hernandez, is hereby committed on the Sole-Count of the First Superseding Indictment to the custody of the Bureau of Prisons for a term TIME…",
+      "docketUrl": "https://www.courtlistener.com/docket/70882488/united-states-v-munoz-hernandez/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 74,
@@ -1829,7 +1835,13 @@
     "caseNumber": "2:25-cr-00779-FLA",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00779",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-12-19",
+      "entryNumber": 74,
+      "text": "JUDGMENT OF DISCHARGE by Judge Fernando L. Aenlle-Rocha as to Defendant Bobby Nunez, for the reason that: jury has returned its verdict, finding the defendant not guilty. IT IS THEREFORE ADJUDGED that the defendant named above is hereby discharged pursuant to Federal Rule of…",
+      "docketUrl": "https://www.courtlistener.com/docket/71468960/united-states-v-nunez/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 75,
@@ -1848,7 +1860,13 @@
     "caseNumber": "2:25-cr-00548-SRM",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00548",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-07-30",
+      "entryNumber": 29,
+      "text": "JUDGMENT OF DISCHARGE by Judge Serena R. Murillo as to Defendant Alejandro Theodoro Orellana, Bond Exonerated.",
+      "docketUrl": "https://www.courtlistener.com/docket/70801873/united-states-v-orellana/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 76,
@@ -1867,7 +1885,13 @@
     "caseNumber": "2:25-cr-00662-FMO",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00662",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-09-05",
+      "entryNumber": 28,
+      "text": "JUDGMENT OF DISCHARGE by Judge Fernando M. Olguin as to Defendant Margaret Sarah Ortiz, for the reason that: the Court has granted the motion of the government for dismissal. Bond Exonerated.",
+      "docketUrl": "https://www.courtlistener.com/docket/71284688/united-states-v-ortiz/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 77,
@@ -1886,7 +1910,13 @@
     "caseNumber": "2:25-cr-00904-FMO",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00904",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-01-20",
+      "entryNumber": 88,
+      "text": "Notice of Appearance or Withdrawal of Counsel: for attorney Alexander Botoman. Adding Alexander Botoman as counsel of record for Carlitos Ricardo Parias for the reason indicated in the G-123 Notice. Filed by Defendant Carlitos Ricardo Parias. (Botoman, Alexander)",
+      "docketUrl": "https://www.courtlistener.com/docket/71903696/united-states-v-parias/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 78,
@@ -1905,7 +1935,13 @@
     "caseNumber": "2:25-cr-00957-DOC",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00957",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-06-17",
+      "entryNumber": 38,
+      "text": "ORDER RE: EX PARTE APPLICATION FOR THE RETURN OF MR. POSADAS'S PASSPORT 37 by Judge David O. Carter: IT IS HEREBY ORDERED that the Office of United States Probation and Pretrial Services shall return Mr. Posadas's passport to him.",
+      "docketUrl": "https://www.courtlistener.com/docket/71953310/united-states-v-posadas-espinoza/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 79,
@@ -1924,7 +1960,13 @@
     "caseNumber": "2:25-mj-03579-DUTY",
     "courtId": "cacd",
     "docketNumber": "2:25-mj-03579",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2025-07-09",
+      "entryNumber": 8,
+      "text": "ORDER by Magistrate Judge Karen L. Stevenson granting 6 MOTION to Dismiss Magistrate Complaint as to Omar Pulido Bastida (1)",
+      "docketUrl": "https://www.courtlistener.com/docket/70637130/united-states-v-bastida/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 80,
@@ -1968,7 +2010,13 @@
     "caseNumber": "2:25-cr-00970-MCS",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00970",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-10-01",
+      "entryNumber": 60,
+      "text": "AMENDED JUDGMENT by Judge Mark C. Scarsi as to Defendant Dennis Quinonez (1), as to Defendant Dennis Quinonez (1). COUNT(s) 2, PROBATION 3 YEARS.The defendant shall comply with the rules and regulations of the United States Probation and Pretrial Ser vices Office and Second…",
+      "docketUrl": "https://www.courtlistener.com/docket/71980191/united-states-v-quinonez/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 82,
@@ -1987,7 +2035,13 @@
     "caseNumber": "2:25-cr-00707-MWC",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00707",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-01-12",
+      "entryNumber": 29,
+      "text": "JUDGMENT AND COMMITMENT by Judge Michelle Williams Court as to Defendant Tony De Jesus Quintanilla (1), Count(s) 1, Defendant is hereby placed on probation on Count One of the Single Count Information for a term of 1 year. Special assessment of $25. All fines waived. (SEE…",
+      "docketUrl": "https://www.courtlistener.com/docket/71292843/united-states-v-de-jesus-quintanilla/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 83,
@@ -2006,7 +2060,13 @@
     "caseNumber": "2:25-cr-00759-AH",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00759",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-05-04",
+      "entryNumber": 199,
+      "text": "ORDER ALLOWING RETURN OF PASSPORT 198 by Judge Anne Hwang Granting 198 EX PARTE APPLICATION as to Jessica Isabel Ramirez-Vasquez (1): GOOD CAUSE HAVING BEEN SHOWN, IT IS HEREBY ORDERED that Defendant's Unopposed Ex Parte Application for Order Allowing Return of Passport is…",
+      "docketUrl": "https://www.courtlistener.com/docket/71459344/united-states-v-ramirez-vasquez/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 84,
@@ -2025,7 +2085,13 @@
     "caseNumber": "2:25-cr-00680-SVW",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00680",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-06-02",
+      "entryNumber": 141,
+      "text": "SEALED - UNDER SEAL DOCUMENT",
+      "docketUrl": "https://www.courtlistener.com/docket/71287058/united-states-v-ruiz/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 85,
@@ -2044,7 +2110,13 @@
     "caseNumber": "2:25-cr-00680-SVW-1",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00680",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-08-28",
+      "entryNumber": 145,
+      "text": "ORDER CONTINUING SENTENCING HEARING 144 by Judge Stephen V. Wilson as to Defendant Randy Paul Ruiz. IT IS HEREBY ORDERED that the Sentencing Hearing set for November 2, 2026 is hereby continued to February 8, 2027.",
+      "docketUrl": "https://www.courtlistener.com/docket/71140809/united-states-v-ruiz/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 86,
@@ -2063,7 +2135,13 @@
     "caseNumber": "2:25-cr-00780-SVW",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00780",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-09-24",
+      "entryNumber": 273,
+      "text": "SUPPLEMENTAL INFORMATION filed by Plaintiff USA as to Defendant Cynthia Raygoza, Ashleigh Brown, Sandra Carmona Samane RE SENTENCING AND PROPOSED TERM OF SUPERVISED RELEASE (Border, Lauren)",
+      "docketUrl": "https://www.courtlistener.com/docket/71470374/united-states-v-raygoza-et-al/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 87,
@@ -2082,7 +2160,13 @@
     "caseNumber": "2:25-cr-00780-SVW",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00780",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-09-24",
+      "entryNumber": 273,
+      "text": "SUPPLEMENTAL INFORMATION filed by Plaintiff USA as to Defendant Cynthia Raygoza, Ashleigh Brown, Sandra Carmona Samane RE SENTENCING AND PROPOSED TERM OF SUPERVISED RELEASE (Border, Lauren)",
+      "docketUrl": "https://www.courtlistener.com/docket/71470374/united-states-v-raygoza-et-al/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 88,
@@ -2101,7 +2185,13 @@
     "caseNumber": "2:25-cr-00780-SVW-2",
     "courtId": "cacd",
     "docketNumber": "2:25-cr-00780",
-    "latestFiling": null
+    "latestFiling": {
+      "date": "2026-09-24",
+      "entryNumber": 273,
+      "text": "SUPPLEMENTAL INFORMATION filed by Plaintiff USA as to Defendant Cynthia Raygoza, Ashleigh Brown, Sandra Carmona Samane RE SENTENCING AND PROPOSED TERM OF SUPERVISED RELEASE (Border, Lauren)",
+      "docketUrl": "https://www.courtlistener.com/docket/71470374/united-states-v-raygoza-et-al/",
+      "checked": "2026-10-08"
+    }
   },
   {
     "id": 89,
